@@ -1,1 +1,1 @@
-# solux_git_seminar
+# test
